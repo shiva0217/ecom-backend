@@ -1,0 +1,10 @@
+{
+    "app" : {
+        "name" : "E-Commerce backend Project - local",
+        "databadse" : "local database"
+        },
+    
+     "mail" : {
+         "host" : "local host server"
+     }
+}

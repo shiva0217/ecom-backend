@@ -1,0 +1,10 @@
+{
+    "app" : {
+        "name" : "E-Commerce backend Project - stagging",
+        "databadse" : "stagging database"
+        },
+    
+     "mail" : {
+         "host" : "stagging host server"
+     }
+}
